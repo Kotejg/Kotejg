@@ -1,4 +1,4 @@
-<img src = "dev_animado.gif" width="200px" align = "right">
+
 #Bem vindo ao meu GitHub! fique a vontade :D   
 
     <div>
